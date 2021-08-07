@@ -5,21 +5,21 @@ In Olympics, the countries are ranked by the total number of medals won. You are
 The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.<br>
 
 The first and only line of each test case contains six space-separated integers G1, S1, B1, and G2, S2, B2.
-<br>
+<br><br>
 <b>Output Format</b><br>
 For each test case, print "1" if the first country is ranked better or "2" otherwise. Output the answer without quotes.
-<br>
+<br><br>
 <b>Constraints</b><br>
 1≤T≤1000<br>
-0≤G1,S1,B1,G2,S2,B2≤30<br>
-<b>Subtasks</b><br>
+0≤G1,S1,B1,G2,S2,B2≤30<br><br>
+<b>Subtasks</b><br><br>
 Subtask #1 (100 points): Original constraints<br>
-
+<br>
 <b>Sample Input 1 </b><br>
 3<br>
 10 20 30 0 29 30<br>
 0 0 0 0 0 1<br>
-1 1 1 0 0 0<br>
+1 1 1 0 0 0<br><br>
 <b>Sample Output 1</b><br> 
 1<br>
 2<br>
