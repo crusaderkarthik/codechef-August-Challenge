@@ -15,15 +15,15 @@ For each test case, print a single line containing one integer - the maximum num
 <b>Subtask #1</b> (100 points): Original constraints
 
 <b>Sample Input 1 </b><br>
-3
-1 4 3 2
-4 5 5 5
-2 2 2 2
+3<br>
+1 4 3 2<br>
+4 5 5 5<br>
+2 2 2 2<br>
 <br><br>
 <b>Sample Output 1 </b><br>
-2
-1
-0
+2<br>
+1<br>
+0<br>
 <br><br>
 <b>Explanation</b><br>
 <b>Test case 1:</b> You can prepare the first problem set using the first two problems and the second problem set using the next two problems. So the problem sets will be [1,4] and [3,2].
